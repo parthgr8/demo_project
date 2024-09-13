@@ -1,2 +1,2 @@
 # demo_project
-project to test skillls
+project to test skills
